@@ -1,0 +1,9 @@
+# Update 8 - Version Control & Branching
+Date: 2026-04-12
+
+## Tasks completed:
+- User asked how to safely save all the new frontend code without destroying the `v2` or `main` branches.
+- Used Git to create a new, safe, isolated branch called `frontend`.
+- Tracked the `frontend/` directory and `whatUpdate/` directory into version control.
+- Ensured `.env` secrets remain strictly ignored so the database string doesn't leak.
+- Pushed the new branch to the remote repository.
